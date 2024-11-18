@@ -1,9 +1,41 @@
-<h1 align="center">Hello Everyone! 👋, I'm Hazem Abuelanin</h1>
-<h3 align="center">A Computer Engineer passionate about Robotics, AI, Autonomous vehicles and Software Development.</h3>
+# 👋 Hello, I'm [Hazem Abuelanin]!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 👨‍💻 **About Me**
+I am a **Computer Engineer** passionate about:
+- 🤖 Robotics
+- 🧠 Artificial Intelligence
+- 🚗 Autonomous Vehicles
+- 💻 Software Development
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I am currently **founding and leading the first autonomous racing team** at my university as the **Autonomous Team Leader**.  
+My focus is on strengthening my skills in **computer engineering fundamentals** while exploring advanced topics in **robotics software engineering** and **AI** by working on various exciting projects.
+
+💡 **Open to internship and training opportunities** to further enhance my abilities.
+
+---
+
+### 🛠️ **Skills and Tools**
+#### 🚀 Programming Languages:
+- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+
+#### 💻 Tools and Platforms:
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+
+---
+
+### 🏆 **Highlights**
+- 🏎️ **Founder and Autonomous Team Leader**: Established and lead the first autonomous racing team at my university.
+- 💡 Passionate about applying **AI** and **Robotics** in real-world systems and competitions. 
+
+---
+
+### 📫 **Contact Me**
+- 📧 Email: [hazem.abuelanin@gmail.com]  
+- 🌐 LinkedIn: [https://www.linkedin.com/in/hazem-abuelanin-751b4421b/]  
+
+---

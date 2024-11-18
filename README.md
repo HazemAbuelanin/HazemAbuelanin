@@ -8,9 +8,8 @@ I am a **Computer Engineer** passionate about:
 - 💻 Software Development
 
 I am currently **founding and leading the first autonomous racing team** at my university as the **Autonomous Team Leader**.  
-My focus is on strengthening my skills in **computer engineering fundamentals** while exploring advanced topics in **robotics software engineering** and **AI** by working on various exciting projects.
 
-💡 **Open to internship and training opportunities** to further enhance my abilities.
+My focus is on strengthening my skills in **computer engineering fundamentals** while exploring advanced topics in **robotics software engineering** and **AI** by working on various exciting projects.
 
 ---
 
@@ -31,7 +30,7 @@ My focus is on strengthening my skills in **computer engineering fundamentals** 
 ### 🏆 **Highlights**
 - 🏎️ **Founder and Autonomous Team Leader**: Established and lead the first autonomous racing team at my university.
 - 💡 Passionate about applying **AI** and **Robotics** in real-world systems and competitions. 
-
+- 💡 Participated in autonomous design and racing competitions including [F1TENTH, Electrical vehicle rally in Egypt] and secured top places.
 ---
 
 ### 📫 **Contact Me**

@@ -7,7 +7,7 @@ I am a **Computer Engineer** passionate about:
 - 🚗 Autonomous Vehicles
 - 💻 Software Development
 
-I am currently **founding and leading the first autonomous racing team** at my university as the **Autonomous Team Leader**.  
+I am currently **founding and leading the first autonomous racing team** at my university (Shoubra Racing Team) as the **Autonomous Team Leader**.  
 
 My focus is on strengthening my skills in **computer engineering fundamentals** while exploring advanced topics in **robotics software engineering** and **AI** by working on various exciting projects.
 

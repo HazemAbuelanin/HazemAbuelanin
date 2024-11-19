@@ -7,7 +7,7 @@ I am a **Computer Engineer** passionate about:
 - 🚗 Autonomous Vehicles
 - 💻 Software Development
 
-My focus is on strengthening my skills in **computer engineering fundamentals** while exploring advanced topics in **robotics software engineering** and **AI** by working on various exciting projects.
+My focus is on strengthening my skills in **Computer Engineering Fundamentals** while exploring advanced topics in **robotics software engineering** and **AI** by working on various exciting projects.
 
 ---
 

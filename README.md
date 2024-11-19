@@ -26,7 +26,7 @@ My focus is on strengthening my skills in **Computer Engineering Fundamentals** 
 ---
 
 ### 🏆 **Highlights**
-- 🏎️ **Founder and Autonomous Team Leader**: Established and lead the first autonomous racing team at my university.
+- 🏎️ **Founder and Autonomous Team Leader**: Established and lead the first autonomous racing team at my university (Shoubra Racing Team).
 - 💡 Passionate about applying **AI** and **Robotics** in real-world systems and competitions. 
 - 💡 Participated in autonomous design and racing competitions including [F1TENTH, Electrical vehicle rally in Egypt] and secured top places.
 ---

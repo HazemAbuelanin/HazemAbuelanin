@@ -5,7 +5,7 @@ I am a **Computer Engineer** passionate about:
 - 🤖 Robotics
 - 🧠 Artificial Intelligence
 - 🚗 Autonomous Vehicles
-- 💻 Software Development
+- 💻 Embedded Systems
 
 My focus is on strengthening my skills in **Computer Engineering Fundamentals** while exploring advanced topics in **robotics software engineering** and **AI** by working on various exciting projects.
 

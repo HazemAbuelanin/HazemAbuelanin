@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hazem Abuelanin!
 
 ### 👨‍💻 **About Me**
-I am a **Computer Engineer** passionate about:
+I am a **Computer Engineering undergraduate** passionate about:
 - 🤖 Robotics
 - 🧠 Artificial Intelligence
 - 🚗 Autonomous Vehicles

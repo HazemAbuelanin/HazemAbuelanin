@@ -29,8 +29,8 @@ My focus is on strengthening my skills in **Computer Engineering Fundamentals** 
 - 🏎️ **Founder and Autonomous Team Leader**: Established and lead the first autonomous racing team at my university (Shoubra Racing Team).
 - 🏎️ Leading the autonomous software stack design for [Formula Student AI - Shell AI - F1TENTH - Electric Vehicle Rally in Egypt].
 - 💡 Participating in Emirates Robotics Competition and designing robots software for environmental robots.
-- 💡 Passionate about applying **AI** and **Robotics** in real-world systems and competitions. 
-- 💡 Participated in autonomous vehicles design and racing competitions including [F1TENTH, Electrical vehicle rally in Egypt, Shell AI] and secured top places.
+- 💡 Participated in autonomous vehicles design and racing competitions including [F1TENTH, Electrical vehicle rally in Egypt, Shell eco-marathon] and secured top places.
+- - 💡 Passionate about applying **AI** and **Robotics** in real-world systems and competitions. 
 ---
 
 ### 📫 **Contact Me**

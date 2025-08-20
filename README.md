@@ -36,7 +36,7 @@ I’m building a strong foundation in **Computer Engineering** while advancing i
 |------|-------------|-------------|-------|
 | 2025 | Shell Eco-Marathon (APC) | 🥈 2nd Place | 24 teams |
 | 2025 | Emirates Robotics Competition | 🤖 Finalist | UAE |
-| 2024 | F1TENTH IROS (Thailand) | 🏅 4th Place | 58 teams |
+| 2024 | F1TENTH IROS (Abu Dhabi) | 🏅 4th Place | 58 teams |
 | 2024 | EVER EV Rally (Autonomous Track, Egypt) | 🥉 3rd Place | 17 universities |
 ---
 

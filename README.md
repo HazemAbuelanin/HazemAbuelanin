@@ -1,13 +1,14 @@
 # 👋 Hello, I'm Hazem Abuelanin!
 
 ### 👨‍💻 **About Me**
-I am a **Computer Engineering undergraduate** passionate about:
+I am a **Senior Computer Engineering Student** passionate about:
 - 🤖 Robotics
+- 🤖 Physical AI
 - 🧠 Artificial Intelligence
 - 🚗 Autonomous Vehicles
 - 💻 Embedded Systems
 
-My focus is on strengthening my skills in **Computer Engineering Fundamentals** while exploring advanced topics in **robotics software engineering** and **AI** by working on various exciting projects.
+I’m building a strong foundation in **Computer Engineering** while advancing into **Robotics Software Engineering and Artificial Intelligence** through hands-on projects and research.
 
 ---
 
@@ -26,11 +27,17 @@ My focus is on strengthening my skills in **Computer Engineering Fundamentals** 
 ---
 
 ### 🏆 **Highlights**
-- 🏎️ **Founder and Autonomous Team Leader**: Established and lead the first autonomous racing team at my university (@Shoubra Racing Team).
-- 🏎️ Leading the autonomous software stack design for [Formula Student AI - Shell Eco-Marathon AI - F1TENTH - Electric Vehicle Rally in Egypt].
+- 🏎️ **Founder and Autonomous Team Leader**: Established and lead the first autonomous racing team at my university (Shoubra Racing Team).
+- 🏎️ Led the autonomous stack design for [Formula Student AI - Shell Eco-Marathon Autonomous Category - F1TENTH - Electric Vehicle Rally in Egypt].
 - 💡 Participted in Emirates Robotics Competition 2025 for designing environmental robots among team RADIANT.
-- 💡 Participated in autonomous vehicles design and racing competitions including [F1TENTH, Electrical vehicle rally in Egypt, Shell eco-marathon Autonomous Challenge] and secured top places.
 - 💡 Passionate about applying **AI** and **Robotics** in real-world systems. 
+
+| Year | Competition | Achievement | Scale |
+|------|-------------|-------------|-------|
+| 2025 | Shell Eco-Marathon (APC) | 🥈 2nd Place | 24 teams |
+| 2025 | Emirates Robotics Competition | 🤖 Finalist | UAE |
+| 2024 | F1TENTH IROS (Thailand) | 🏅 4th Place | 58 teams |
+| 2024 | EVER EV Rally (Autonomous Track, Egypt) | 🥉 3rd Place | 17 universities |
 ---
 
 ### 📫 **Contact Me**

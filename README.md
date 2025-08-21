@@ -3,10 +3,9 @@
 ### 👨‍💻 **About Me**
 I am a **Senior Computer Engineering Student** passionate about:
 - 🤖 Robotics
-- 🤖 Physical AI
-- 🧠 Artificial Intelligence
-- 🚗 Autonomous Vehicles
-- 💻 Embedded Systems
+- 🤖 Agentic AI & Physical AI
+- 🧠 Autonomous Systems
+- 💻 Edge Computing & Embedded Systems
 
 I’m building a strong foundation in **Computer Engineering** while advancing into **Robotics Software Engineering and Artificial Intelligence** through hands-on projects and research.
 

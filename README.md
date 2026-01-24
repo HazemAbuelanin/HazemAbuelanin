@@ -28,7 +28,7 @@ I’m building a strong foundation in **Computer Engineering** while advancing i
 ### 🏆 **Highlights**
 - 🔍 Research Assistant at Autotronics Research Lab - Ain Shams University
 - 🏎️ **Founder and Autonomous Team Leader**: Established and lead the first autonomous racing team at my university (Shoubra Racing Team).
-- 🏎️ Led the autonomous stack design for [Formula Student AI - Shell Eco-Marathon Autonomous Category - F1TENTH - Electric Vehicle Rally in Egypt].
+- 🏎️ Led the autonomous stack design for [Shell Eco-Marathon Autonomous Category - F1TENTH - Electric Vehicle Rally in Egypt].
 - 💡 Participted in Emirates Robotics Competition 2025 for designing environmental robots among team RADIANT.
 - 💡 Passionate about applying **AI** and **Robotics** in real-world systems. 
 

@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Hazem Abuelanin!
 
 ### 👨‍💻 **About Me**
-I am a **Senior Computer Engineering Student** passionate about:
+I am an **AI Systems Engineer** passionate about:
 - 🤖 Agentic AI & Physical AI
 - 🤖 Robotics
 - 🧠 Autonomous Systems
 - 💻 Edge Computing & Embedded Systems
 
-I’m building a strong foundation in **Computer Engineering** while advancing into **Robotics Software Engineering and Artificial Intelligence** through hands-on projects and research.
+I love building intelligent systems through hands-on projects and research.
 
 ---
 
@@ -29,6 +29,7 @@ I’m building a strong foundation in **Computer Engineering** while advancing i
 - 🔍 Research Assistant at Autotronics Research Lab - Ain Shams University
 - 🏎️ **Founder and Autonomous Team Leader**: Established and lead the first autonomous racing team at my university (Shoubra Racing Team).
 - 🏎️ Led the autonomous stack design for [Shell Eco-Marathon Autonomous Category - F1TENTH - Electric Vehicle Rally in Egypt].
+- 🏎️ Participated in Formula Student UK 2026 Competition in the AI track with ASU Racing Team.
 - 💡 Participted in Emirates Robotics Competition 2025 for designing environmental robots among team RADIANT.
 - 💡 Passionate about applying **AI** and **Robotics** in real-world systems. 
 

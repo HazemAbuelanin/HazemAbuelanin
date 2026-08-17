@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hazem Abuelanin!
 
 ### 👨‍💻 **About Me**
-I love designing and deploying intelligent systems.
+**I love creating intelligent systems and bringing them from design to real-world deployment.**
 
 ---
 

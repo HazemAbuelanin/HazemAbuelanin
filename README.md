@@ -12,8 +12,7 @@
 - 🏎️ Led the autonomous stack design for [Shell Eco-Marathon Autonomous Category - F1TENTH - Electric Vehicle Rally in Egypt].
 - 🏎️ Participated in Formula Student UK 2026 Competition in the AI track with ASU Racing Team.
 - 💡 Participted in Emirates Robotics Competition 2025 for designing environmental robots among team RADIANT.
-- 💡 
-
+  
 | Year | Competition | Achievement | Scale |
 |------|-------------|-------------|-------|
 | 2026 | Formula Student UK (AI) | 🥈 1st Place overall static | 28 teams |
